@@ -8,7 +8,7 @@
 ### What Problem does it solve?
 - solves the problem of processing sensitive data while maintianing privacy
 
-![Alt text](/ing1.png)
+![Alt text](/excali-images/img1.png)
 
 ### What does Arcium enable for Solana developers?
 → Build a privacy-preserving application
@@ -40,4 +40,4 @@ MXEs are highly configurable, aspects that can be configured are
 ### How does Arcium Works?
 the MXE works with encrypted data in simple steps:
 
-![Image](/image.png)
+![Image](./excali-images/img2.png)
