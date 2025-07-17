@@ -41,3 +41,8 @@ MXEs are highly configurable, aspects that can be configured are
 the MXE works with encrypted data in simple steps:
 
 ![Image](./excali-images/img2.png)
+
+### Common Use Cases of Arcium
+- Private DeFi -> dark pools where trade sizes and prices are hidden, enabling truly permissionless confidential trading without front-running or market manipulation
+- Secure AI -> AI model inference and training on sensitive data while keeping the data encrypted.
+- Confidential Gaming: hidden information games where player moves and state remain private until revealed like card games, strategy games, auctions.
