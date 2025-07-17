@@ -1,4 +1,4 @@
-# Arcium Documentation - S---
+# Arcium Documentation
 
 ## Practical Use Cases
 
@@ -11,7 +11,7 @@ A privacy-preserving portfolio tracking application that allows users to monitor
 ### 2. PrivateTip Platform
 A Solana-based dApp that lets content creators receive private, on-chain tips from followers. Using Arcium's MPC encryption, supporters can send micro-payments or "tips" without revealing their identities or amounts, while creators transparently see their rewards.
 
-</details>ied Guide
+</details>
 
 > **Decrypting the [Arcium Developer Documentation](https://docs.arcium.com/developers)**
 
