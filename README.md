@@ -1,7 +1,5 @@
 # Arcium Documentation
 
-## Practical Use Cases
-
 <details>
 <summary><strong>Example Applications You Can Build</strong></summary>
 
