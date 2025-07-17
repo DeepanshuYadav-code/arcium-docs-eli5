@@ -5,4 +5,7 @@
 ### What is Arcium?
 - a decentrlized private computation network that enables the processing of encrypted data
 
-### What Problem does it solve
+### What Problem does it solve?
+- solves the problem of processing sensitive data while maintianing privacy
+
+![Alt text](/ing1.png)
