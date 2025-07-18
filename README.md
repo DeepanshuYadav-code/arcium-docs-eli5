@@ -24,7 +24,7 @@ Arcium is a **decentralized private computation network** that enables the proce
 Arcium addresses the critical challenge of **processing sensitive data while maintaining complete privacy** throughout the computation process.
 
 <div align="center">
-  <img src="./excali-images/img1.png" alt="Arcium Overview" />
+  <img src="./image-assets/img1.png" alt="Arcium Overview" />
 </div>
 
 ## What Arcium Enables for Solana Developers
@@ -70,7 +70,7 @@ Arcium empowers developers to:
 The MXE processes encrypted data through a simple, secure workflow:
 
 <div align="center">
-  <img src="./excali-images/img2.png" alt="Arcium Workflow" />
+  <img src="./image-assets/img2.png" alt="Arcium Workflow" />
 </div>
 
 ---
@@ -85,3 +85,10 @@ AI model inference and training on sensitive data while keeping the data encrypt
 
 ### Confidential Gaming
 Hidden information games where player moves and state remain private until revealed - perfect for card games, strategy games, and auctions.
+
+## To Install
+- Rust, solana-cli, yarn, anchor, docker, docker compose, Arcium version manager (intalled ss below)
+![](/image-assets/img3.png)
+
+## "Hello World" Program with Arcium
+ [code and implementation here]()
